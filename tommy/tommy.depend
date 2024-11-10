@@ -1,0 +1,510 @@
+# depslib dependency file v1.0
+1730625545 source:c:\c_code\sdl\projects\tommy\tommy_platformer\tomsrce\action.c
+	"gamedefs.h"
+
+1730875404 c:\c_code\sdl\projects\tommy\tommy_platformer\tomsrce\gamedefs.h
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<dos.h>
+	<io.h>
+	"fastgraf_sdl.h"
+	<alloc.h>
+	<mem.h>
+	<malloc.h>
+	<memory.h>
+
+1731226111 c:\c_code\sdl\projects\tommy\tommy_platformer\tomsrce\fastgraf_sdl.h
+	<SDL/SDL.h>
+	<time.h>
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326110987 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_platform.h
+
+1326110994 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326111000 c:\program files\codeblocks\sdl-1.2.15\include\sdl\begin_code.h
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl\close_code.h
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_keysym.h
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1729762072 source:c:\c_code\sdl\projects\tommy\tommy_platformer\tomsrce\char.c
+	"gamedefs.h"
+	"font5.h"
+
+1729762068 c:\c_code\sdl\projects\tommy\tommy_platformer\tomsrce\font5.h
+
+1730804599 source:c:\c_code\sdl\projects\tommy\tommy_platformer\tomsrce\effects.c
+	"gamedefs.h"
+
+1731227695 source:c:\c_code\sdl\projects\tommy\tommy_platformer\tomsrce\fastgraf_sdl.c
+	<SDL/SDL.h>
+
+1730275055 source:c:\c_code\sdl\projects\tommy\tommy_platformer\tomsrce\map.c
+	"gamedefs.h"
+
+1729764675 source:c:\c_code\sdl\projects\tommy\tommy_platformer\tomsrce\motion.c
+	"gamedefs.h"
+
+1730787124 source:c:\c_code\sdl\projects\tommy\tommy_platformer\tomsrce\tommy.c
+	"gamedefs.h"
+
+1730790532 c:\c_code\sdl\projects\tommy\tommy_platformer\tomsrce\fastgraf_sdl_old.h
+	<SDL/SDL.h>
+	<time.h>
+
+1730789258 source:c:\c_code\sdl\projects\tommy\tommy_platformer\tomsrce\fastgraf_sdl_old.c
+	<SDL/SDL.h>
+
+1731141195 source:c:\c_code\sdl\projects\tommy\tommy_game_editor\fgesrce\char.c
+	"editdefs.h"
+	"font5.h"
+
+1731142757 c:\c_code\sdl\projects\tommy\tommy_game_editor\fgesrce\editdefs.h
+	<ctype.h>
+	<dos.h>
+	<io.h>
+	<process.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"fastgraf_sdl.h"
+	<alloc.h>
+	<mem.h>
+	<malloc.h>
+	<memory.h>
+
+1731223222 c:\c_code\sdl\projects\tommy\tommy_game_editor\fgesrce\fastgraf_sdl.h
+	<SDL/SDL.h>
+	<time.h>
+
+1731141151 c:\c_code\sdl\projects\tommy\tommy_game_editor\fgesrce\font5.h
+
+1731141199 source:c:\c_code\sdl\projects\tommy\tommy_game_editor\fgesrce\common.c
+	"editdefs.h"
+
+1731222685 source:c:\c_code\sdl\projects\tommy\tommy_game_editor\fgesrce\fastgraf_sdl.c
+	<SDL/SDL.h>
+
+1731219508 source:c:\c_code\sdl\projects\tommy\tommy_game_editor\fgesrce\fge.c
+	"editdefs.h"
+
+1731141880 source:c:\c_code\sdl\projects\tommy\tommy_game_editor\fgesrce\level.c
+	"editdefs.h"
+
+1731142228 source:c:\c_code\sdl\projects\tommy\tommy_game_editor\fgesrce\menu.c
+	"editdefs.h"
+
+1731142242 source:c:\c_code\sdl\projects\tommy\tommy_game_editor\fgesrce\ripper.c
+	"editdefs.h"
+
+1731142270 source:c:\c_code\sdl\projects\tommy\tommy_game_editor\fgesrce\sprite.c
+	"editdefs.h"
+
+1731142280 source:c:\c_code\sdl\projects\tommy\tommy_game_editor\fgesrce\tile.c
+	"editdefs.h"
+
+1731227450 source:c:\c_code\sdl\projects\tommy\tommy_level_editor\fastgraf_sdl.c
+	<SDL/SDL.h>
+	"font.h"
+
+1728991254 c:\c_code\sdl\projects\tommy\tommy_level_editor\keys.h
+
+1729753119 c:\c_code\sdl\projects\tommy\tommy_level_editor\font.h
+
+1729750741 source:c:\c_code\sdl\projects\tommy\tommy_level_editor\fastgraf_sdl_old.c
+	<SDL/SDL.h>
+	"keys.h"
+	"font.h"
+
+1729664573 source:c:\c_code\sdl\projects\tommy\tommy_level_editor\font.c
+	<SDL/SDL.h>
+	<SDL_image.h>
+	"font.h"
+
+1325788834 c:\program files\codeblocks\sdl-1.2.15\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326110987 c:\program files\codeblocks\sdl-1.2.15\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl_platform.h
+
+1326110994 c:\program files\codeblocks\sdl-1.2.15\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326111000 c:\program files\codeblocks\sdl-1.2.15\include\begin_code.h
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\close_code.h
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl_keysym.h
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files\codeblocks\sdl-1.2.15\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1731227327 source:c:\c_code\sdl\projects\tommy\tommy_level_editor\level.c
+	<stdio.h>
+	<stdlib.h>
+	"fastgraf_sdl.h"
+
+1729753277 c:\c_code\sdl\projects\tommy\tommy_level_editor\fastgraf_sdl.h
+	<SDL/SDL.h>
+
