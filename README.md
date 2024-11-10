@@ -5,4 +5,4 @@
 
 This is the port of the DOS game "Tommy's Adventures" from the book "Action Arcade Adventure Set" released in 1994 by Diana Gruber.
 
-you can read the  book online  [here](http://www.fastgraph.com/makegames/sidescroller/).
+you can read the  book online  [here](http://www.fastgraph.com/makegames/sidescroller/). it is an interesting book that has a lot of valuable info on game dev and old school technique that are still applicable today.
