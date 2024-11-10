@@ -7,4 +7,4 @@ This is the port of the DOS game "Tommy's Adventures" from the book "Action Arca
 
 you can read the  book online  [here](http://www.fastgraph.com/makegames/sidescroller/). it is an interesting book that has a lot of valuable info on game dev and old school technique that are still applicable today.
 
-I ported the game and level editor using SDL, so porting it to other platforms should be easy.
+I ported the game and the level editor using SDL, so porting it to other platforms should be easy.
